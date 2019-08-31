@@ -1,4 +1,0 @@
----
-username: ruthud
-fullname: Ruthu 
----
