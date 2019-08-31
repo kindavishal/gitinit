@@ -1,4 +1,0 @@
----
-username: brijeshsadariya
-fullname: BrijeshPatel
----

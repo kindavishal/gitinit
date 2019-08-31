@@ -1,4 +1,0 @@
----
-username: swaaz
-fullname: swasthikshetty
----
