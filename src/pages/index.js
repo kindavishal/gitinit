@@ -15,30 +15,30 @@ const IndexPage = () => (
     <p>
       Goto the <a target="_blank" href="https://github.com/kindavishal/gitinit"> GitHub repository </a> of this project and fork the project to your account. <i className="em em-knife_fork_plate"></i>  
        Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
-      <Code code="https://github.com/kindavishal/gitinit"/>
+      <Code code="https://github.com/kindavishal/GitInit"/>
     </p>
     <h3>Step 2</h3>
     <p>
       Clone the forked repository to your local machine. Click on the big green button saying "Clone or download" and copy the https url of your repository.
       Fire up the terminal (on linux systems ctrl+alt+t. on Windows open the <a target="_blank" href="https://git-scm.com/download/win">Git-bash</a> ) navigate to your desired directory and type the following command. Replace the link with the clone URL of your repository and hit Enter.
-      <Code code="git clone https://github.com/YOUR_USERNAME/GitMe.git"/>
+      <Code code="git clone https://github.com/YOUR_USERNAME/GitInit.git"/>
     </p>
     <h3>Step 3</h3>
     <p>
       Let's start working on the changes required now! First cd into the cloned folder by typing the following command.
-      <Code code="cd GitMe"/>
+      <Code code="cd GitInit"/>
       Now, Before jumping in to the code, make sure you're working on a different branch and not in master. To create a new branch, 
       from the terminal inside your current project directory type the following command.
       <Code code="git branch YOUR_USERNAME-profile"/>
       Replace the <i>YOUR_USERNAME</i> with your GitHub username or you can give any name to your branch which describes the purpose of the branch. Since here we're adding your profile,
-      we'll simply give the name of the branch as above. eg: <i>git branch haxzie-profile</i>. Once you have created the new branch we'll change the current brach from master to your newly created branch.
+      we'll simply give the name of the branch as above. eg: <i>git branch kindavishal-profile</i>. Once you have created the new branch we'll change the current brach from master to your newly created branch.
       Execute the following command on your terminal.
       <Code code="git checkout YOUR_BRANCH_NAME"/>
     </p>
     <h3>Step 4</h3>
     <p>
       In your <i className="em em-card_file_box"></i> file manager/terminal navigate to the downloaded repo. Open the sub-directory <i className="em em-file_folder"></i><b>src/profiles/</b>. and create a new <b>.md</b> file with your username as the filename with <b>.md</b> extension.<br/>
-      It should look like <b>YOUR_USER_NAME.md</b> <i>eg: haxzie.md </i><br/>
+      It should look like <b>YOUR_USER_NAME.md</b> <i>eg: kindavishal.md </i><br/>
       Open this file in your favourite editor and fill the details as below in the frontmatter of the markdown file.
       <br/>
       <i className="em em-page_facing_up"></i><i>YOUR_USER_NAME.md</i>
