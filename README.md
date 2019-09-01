@@ -1,7 +1,7 @@
 # Hello Developers :wave:
 ## Let's help you submit your first pull request
 
-follow the instructions [here](https://gitme.js.org) to get started. 
+follow the instructions [here](https://gitinit.js.org) to get started. 
 
 ## Setting up the project for development
 Make sure you have latest version of Node and NPM installed. 
@@ -27,4 +27,4 @@ Make sure you have latest version of Node and NPM installed.
   ```
   gatsby build
   ```
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kindavishal/gitinit)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kindavishal/gitinit) [![Netlify Status](https://api.netlify.com/api/v1/badges/22c9a1ce-ad21-4da1-b5c7-e27933ec43f9/deploy-status)](https://app.netlify.com/sites/silly-shirley-8e44e3/deploys)

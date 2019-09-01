@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'GitMe!',
-    author: 'haxzie',
-    profile: 'https://github.com/haxzie',
-    siteUrl: `https://gitme.js.org`
+    title: 'GitInit!',
+    author: 'kindavishal',
+    profile: 'https://github.com/kindavishal',
+    siteUrl: `https://gitinit.js.org`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
