@@ -27,4 +27,5 @@ Make sure you have latest version of Node and NPM installed.
   ```
   gatsby build
   ```
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kindavishal/gitinit) [![Netlify Status](https://api.netlify.com/api/v1/badges/22c9a1ce-ad21-4da1-b5c7-e27933ec43f9/deploy-status)](https://app.netlify.com/sites/silly-shirley-8e44e3/deploys)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kindavishal/gitinit)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22c9a1ce-ad21-4da1-b5c7-e27933ec43f9/deploy-status)](https://app.netlify.com/sites/silly-shirley-8e44e3/deploys)
