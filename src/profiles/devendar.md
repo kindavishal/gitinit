@@ -1,4 +1,0 @@
----
-username: DevendarReddyDarukumalli
-fullname: DevendarReddyDarukumalli
----
