@@ -1,8 +1,8 @@
 {
-  "name": "GitMe",
-  "description": "GitMe - Git workshop exercise",
+  "name": "GitInit",
+  "description": "GitInit - Git workshop exercise",
   "version": "1.0.0",
-  "author": "haxzie <musthu.gm@gmail.com>",
+  "author": "kindavishal <vishal-das+gitinit@outlook.com>",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
