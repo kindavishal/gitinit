@@ -1,4 +1,0 @@
----
-username: sumanth
-fullname: Sumanth
----

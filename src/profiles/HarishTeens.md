@@ -1,4 +1,0 @@
----
-username: HarishTeens
-fullname: Harish
----
