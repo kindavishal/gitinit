@@ -1,7 +1,6 @@
 # Hello Developers :wave:
-## Let's help you submit your first pull request
-
-Follow the instructions at [GitInit](https://gitinit.js.org) to get started.
+Let's help you submit your first pull request :sparkles:  
+Follow the instructions at [GitInit](https://gitinit.js.org) to get started 🚩
 
 ## Working on the code
 
