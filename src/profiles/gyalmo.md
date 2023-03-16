@@ -1,5 +1,4 @@
 ---
 username: gyalmo
-fullname: shruti_pandey
+fullname: Shruti Pandey
 ---
-
