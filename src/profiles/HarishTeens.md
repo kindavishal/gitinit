@@ -1,4 +1,4 @@
 ---
 username: HarishTeens
-fullname: Harish RR
+fullname: Harish Teens
 ---
